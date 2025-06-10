@@ -1,0 +1,768 @@
+2025-05-15 18:59:53,916 - INFO - \U0001f680 Запуск Telebot...
+2025-05-15 18:59:53,917 - INFO - \U0001f50d Запуск парсера Pyrogram...
+2025-05-15 18:59:55,126 - INFO - Connecting...
+2025-05-15 18:59:55,185 - INFO - Connected! Production DC2 - IPv4
+2025-05-15 18:59:55,186 - INFO - NetworkTask started
+2025-05-15 18:59:55,427 - INFO - Session initialized: Layer 199
+2025-05-15 18:59:55,427 - INFO - Device: CPython 3.12.3 - Pyrogram 2.1.39
+2025-05-15 18:59:55,427 - INFO - System: Windows 10 (en)
+2025-05-15 18:59:55,428 - INFO - Session started
+2025-05-15 18:59:55,431 - INFO - PingTask started
+2025-05-15 18:59:55,712 - INFO - Started 12 HandlerTasks
+2025-05-15 18:59:55,820 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Dispatcher.add_handler.<locals>.fn() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:244>>
+2025-05-15 18:59:55,823 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,824 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 18:59:55,825 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:44,436 - INFO - \U0001f680 Запуск Telebot...
+2025-05-15 19:02:44,437 - INFO - \U0001f50d Запуск парсера Pyrogram...
+2025-05-15 19:02:45,486 - INFO - Connecting...
+2025-05-15 19:02:45,543 - INFO - Connected! Production DC2 - IPv4
+2025-05-15 19:02:45,545 - INFO - NetworkTask started
+2025-05-15 19:02:45,794 - INFO - Session initialized: Layer 199
+2025-05-15 19:02:45,794 - INFO - Device: CPython 3.12.3 - Pyrogram 2.1.39
+2025-05-15 19:02:45,794 - INFO - System: Windows 10 (en)
+2025-05-15 19:02:45,794 - INFO - Session started
+2025-05-15 19:02:45,797 - INFO - PingTask started
+2025-05-15 19:02:46,040 - INFO - Started 12 HandlerTasks
+2025-05-15 19:02:46,148 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Dispatcher.add_handler.<locals>.fn() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:244>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:02:46,150 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:22,071 - DEBUG - Using proactor: IocpProactor
+2025-05-15 19:06:22,093 - DEBUG - Using proactor: IocpProactor
+2025-05-15 19:06:22,096 - INFO - \U0001f680 Запуск Telebot...
+2025-05-15 19:06:22,097 - INFO - \U0001f50d Запуск парсера Pyrogram...
+2025-05-15 19:06:24,115 - INFO - Connecting...
+2025-05-15 19:06:24,118 - INFO - Запущена проверка тайм-аутов сделок
+2025-05-15 19:06:24,119 - INFO - Запуск polling для AsyncTeleBot...
+2025-05-15 19:06:24,119 - ERROR - Infinity polling exception: AsyncTeleBot._process_polling() got an unexpected keyword argument 'long_polling_timeout'
+2025-05-15 19:06:24,270 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\telebot\async_telebot.py", line 374, in infinity_polling
+    await self._process_polling(non_stop=True, timeout=timeout, request_timeout=request_timeout,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AsyncTeleBot._process_polling() got an unexpected keyword argument 'long_polling_timeout'
+
+2025-05-15 19:06:24,271 - INFO - Connected! Production DC2 - IPv4
+2025-05-15 19:06:24,272 - DEBUG - Sent: {
+    "_": "Message",
+    "msg_id": 7504704520757182464,
+    "seq_no": 0,
+    "length": 12,
+    "body": {
+        "_": "functions.Ping",
+        "ping_id": 0
+    }
+}
+2025-05-15 19:06:24,274 - INFO - NetworkTask started
+2025-05-15 19:06:24,332 - DEBUG - Received: {
+    "_": "Message",
+    "msg_id": 7504704522117391361,
+    "seq_no": 0,
+    "length": 28,
+    "body": {
+        "_": "types.BadServerSalt",
+        "bad_msg_id": 7504704520757182464,
+        "bad_msg_seqno": 0,
+        "error_code": 48,
+        "new_server_salt": -582469956798999061
+    }
+}
+2025-05-15 19:06:24,333 - DEBUG - Sent: {
+    "_": "Message",
+    "msg_id": 7504704520757182468,
+    "seq_no": 0,
+    "length": 12,
+    "body": {
+        "_": "functions.Ping",
+        "ping_id": 0
+    }
+}
+2025-05-15 19:06:24,397 - DEBUG - Received: {
+    "_": "Message",
+    "msg_id": 7504704522382857225,
+    "seq_no": 2,
+    "length": 88,
+    "body": {
+        "_": "MsgContainer",
+        "messages": [
+            {
+                "_": "Message",
+                "msg_id": 7504704522382857217,
+                "seq_no": 1,
+                "length": 28,
+                "body": {
+                    "_": "types.NewSessionCreated",
+                    "first_msg_id": 7504704520757182468,
+                    "unique_id": 2638103736573326405,
+                    "server_salt": -582469956798999061
+                }
+            },
+            {
+                "_": "Message",
+                "msg_id": 7504704522382857221,
+                "seq_no": 2,
+                "length": 20,
+                "body": {
+                    "_": "types.Pong",
+                    "msg_id": 7504704520757182468,
+                    "ping_id": 0
+                }
+            }
+        ]
+    }
+}
+2025-05-15 19:06:24,403 - DEBUG - Sent: {
+    "_": "Message",
+    "msg_id": 7504704520757182480,
+    "seq_no": 1,
+    "length": 80,
+    "body": {
+        "_": "functions.InvokeWithLayer",
+        "layer": 199,
+        "query": {
+            "_": "functions.InitConnection",
+            "api_id": 2867162,
+            "device_model": "CPython 3.12.3",
+            "system_version": "Windows 10",
+            "app_version": "Pyrogram 2.1.39",
+            "system_lang_code": "en",
+            "lang_pack": "",
+            "lang_code": "en",
+            "query": {
+                "_": "functions.help.GetConfig"
+            }
+        }
+    }
+}
+2025-05-15 19:06:24,472 - DEBUG - Received: {
+    "_": "Message",
+    "msg_id": 7504704522704849921,
+    "seq_no": 3,
+    "length": 536,
+    "body": {
+        "_": "types.RpcResult",
+        "req_msg_id": 7504704520757182480,
+        "result": {
+            "_": "types.Config",
+            "date": 1747325184,
+            "expires": 1747328570,
+            "test_mode": false,
+            "this_dc": 2,
+            "dc_options": [
+                {
+                    "_": "types.DcOption",
+                    "id": 1,
+                    "ip_address": "149.154.175.54",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 1,
+                    "ip_address": "149.154.175.54",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": true,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 1,
+                    "ip_address": "2001:0b28:f23d:f001:0000:0000:0000:000a",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 1,
+                    "ip_address": "149.154.175.211",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 1,
+                    "ip_address": "2001:0b28:f23d:f001:0000:0000:0000:0007",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 2,
+                    "ip_address": "149.154.167.41",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 2,
+                    "ip_address": "149.154.167.41",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": true,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 2,
+                    "ip_address": "149.154.167.35",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 2,
+                    "ip_address": "2001:067c:04e8:f002:0000:0000:0000:000a",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 2,
+                    "ip_address": "2001:067c:04e8:f002:0000:0000:0000:0007",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 3,
+                    "ip_address": "149.154.175.100",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 3,
+                    "ip_address": "149.154.175.100",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": true,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 3,
+                    "ip_address": "2001:0b28:f23d:f003:0000:0000:0000:000a",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 4,
+                    "ip_address": "149.154.167.92",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 4,
+                    "ip_address": "149.154.167.92",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": true,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 4,
+                    "ip_address": "2001:067c:04e8:f004:0000:0000:0000:000a",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 4,
+                    "ip_address": "149.154.167.255",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 4,
+                    "ip_address": "2001:067c:04e8:f004:0000:0000:0000:0007",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 5,
+                    "ip_address": "2001:0b28:f23f:f005:0000:0000:0000:000a",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 5,
+                    "ip_address": "91.108.56.111",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 5,
+                    "ip_address": "91.108.56.111",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": false,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": true,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 5,
+                    "ip_address": "149.154.171.255",
+                    "port": 443,
+                    "ipv6": false,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                },
+                {
+                    "_": "types.DcOption",
+                    "id": 5,
+                    "ip_address": "2001:0b28:f23f:f005:0000:0000:0000:0007",
+                    "port": 443,
+                    "ipv6": true,
+                    "media_only": true,
+                    "tcpo_only": false,
+                    "cdn": false,
+                    "static": false,
+                    "this_port_only": false
+                }
+            ],
+            "dc_txt_domain_name": "apv3.stel.com",
+            "chat_size_max": 200,
+            "megagroup_size_max": 200000,
+            "forwarded_count_max": 100,
+            "online_update_period_ms": 210000,
+            "offline_blur_timeout_ms": 5000,
+            "offline_idle_timeout_ms": 30000,
+            "online_cloud_timeout_ms": 300000,
+            "notify_cloud_delay_ms": 30000,
+            "notify_default_delay_ms": 1500,
+            "push_chat_period_ms": 60000,
+            "push_chat_limit": 2,
+            "edit_time_limit": 172800,
+            "revoke_time_limit": 2147483647,
+            "revoke_pm_time_limit": 2147483647,
+            "rating_e_decay": 2419200,
+            "stickers_recent_limit": 200,
+            "channels_read_media_period": 604800,
+            "call_receive_timeout_ms": 20000,
+            "call_ring_timeout_ms": 90000,
+            "call_connect_timeout_ms": 30000,
+            "call_packet_timeout_ms": 10000,
+            "me_url_prefix": "https://t.me/",
+            "caption_length_max": 4096,
+            "message_length_max": 4096,
+            "webfile_dc_id": 4,
+            "default_p2p_contacts": true,
+            "preload_featured_stickers": false,
+            "revoke_pm_inbox": true,
+            "blocked_mode": false,
+            "force_try_ipv6": false,
+            "gif_search_username": "gif",
+            "venue_search_username": "foursquare",
+            "img_search_username": "bing",
+            "reactions_default": {
+                "_": "types.ReactionEmoji",
+                "emoticon": "\u2764"
+            },
+            "autologin_token": "qrAJhaad__9XrjoJYB1AX-zbe2MxL75cIeS5bc9ZRWtoJhEAFgAAAAAvUC-lAPwt2wwqkMQeY-Mj9u9rNe5t_xcFJE-CMbMgz5M-JXi4"
+        }
+    }
+}
+2025-05-15 19:06:24,477 - INFO - Session initialized: Layer 199
+2025-05-15 19:06:24,477 - INFO - Device: CPython 3.12.3 - Pyrogram 2.1.39
+2025-05-15 19:06:24,477 - INFO - System: Windows 10 (en)
+2025-05-15 19:06:24,477 - INFO - Session started
+2025-05-15 19:06:24,481 - DEBUG - Sent: {
+    "_": "Message",
+    "msg_id": 7504704520757182488,
+    "seq_no": 3,
+    "length": 4,
+    "body": {
+        "_": "functions.updates.GetState"
+    }
+}
+2025-05-15 19:06:24,481 - INFO - PingTask started
+2025-05-15 19:06:24,570 - DEBUG - Received: {
+    "_": "Message",
+    "msg_id": 7504704523132721153,
+    "seq_no": 5,
+    "length": 36,
+    "body": {
+        "_": "types.RpcResult",
+        "req_msg_id": 7504704520757182488,
+        "result": {
+            "_": "types.updates.State",
+            "pts": 1050084,
+            "qts": 0,
+            "date": 1747325184,
+            "seq": 205,
+            "unread_count": 330
+        }
+    }
+}
+2025-05-15 19:06:24,572 - DEBUG - Sent: {
+    "_": "Message",
+    "msg_id": 7504704520757182496,
+    "seq_no": 5,
+    "length": 8,
+    "body": {
+        "_": "functions.users.GetFullUser",
+        "id": {
+            "_": "types.InputUserSelf"
+        }
+    }
+}
+2025-05-15 19:06:24,649 - DEBUG - Received: {
+    "_": "Message",
+    "msg_id": 7504704523472558081,
+    "seq_no": 7,
+    "length": 620,
+    "body": {
+        "_": "types.RpcResult",
+        "req_msg_id": 7504704520757182496,
+        "result": {
+            "_": "types.users.UserFull",
+            "full_user": {
+                "_": "types.UserFull",
+                "id": 793784229,
+                "settings": {
+                    "_": "types.PeerSettings",
+                    "report_spam": false,
+                    "add_contact": false,
+                    "block_contact": false,
+                    "share_contact": false,
+                    "need_contacts_exception": false,
+                    "report_geo": false,
+                    "autoarchived": false,
+                    "invite_members": false,
+                    "request_chat_broadcast": false,
+                    "business_bot_paused": false,
+                    "business_bot_can_reply": false
+                },
+                "notify_settings": {
+                    "_": "types.PeerNotifySettings",
+                    "show_previews": true,
+                    "silent": false,
+                    "mute_until": 0,
+                    "ios_sound": {
+                        "_": "types.NotificationSoundDefault"
+                    },
+                    "android_sound": {
+                        "_": "types.NotificationSoundLocal",
+                        "title": "default",
+                        "data": "default"
+                    },
+                    "other_sound": {
+                        "_": "types.NotificationSoundLocal",
+                        "title": "default",
+                        "data": "default"
+                    }
+                },
+                "common_chats_count": 0,
+                "blocked": false,
+                "phone_calls_available": false,
+                "phone_calls_private": false,
+                "can_pin_message": true,
+                "has_scheduled": false,
+                "video_calls_available": false,
+                "voice_messages_forbidden": false,
+                "translations_disabled": false,
+                "stories_pinned_available": false,
+                "blocked_my_stories_from": false,
+                "wallpaper_overridden": false,
+                "contact_require_premium": false,
+                "read_dates_private": false,
+                "sponsored_enabled": false,
+                "can_view_revenue": false,
+                "bot_can_manage_emoji_status": false,
+                "about": "Head of https://t.me/AT_industries",
+                "profile_photo": {
+                    "_": "types.Photo",
+                    "id": 3409277304091813805,
+                    "access_hash": 4990116344145586948,
+                    "file_reference": "b'\\x00h&\\x11\\x00{\\x9a>s \\x11H\\x86`&\\xba\\xd3_\\xa6s?'",
+                    "date": 1676973226,
+                    "sizes": [
+                        {
+                            "_": "types.PhotoSize",
+                            "type": "a",
+                            "w": 160,
+                            "h": 160,
+                            "size": 7908
+                        },
+                        {
+                            "_": "types.PhotoSize",
+                            "type": "b",
+                            "w": 320,
+                            "h": 320,
+                            "size": 20601
+                        },
+                        {
+                            "_": "types.PhotoSize",
+                            "type": "c",
+                            "w": 640,
+                            "h": 640,
+                            "size": 43251
+                        },
+                        {
+                            "_": "types.PhotoStrippedSize",
+                            "type": "i",
+                            "bytes": "b'\\x01((s\\xcc\\xb1\\x80X9^\\xe5FqYWr\\x89\\xae\\x1d\\xd7;z\\x0c\\xfaV\\xa7\\x99\"\\xab\\x14U\\xc8\\x04\\x8ek._\\xde\\x13#\\x0f\\x99\\x8ex\\x15\\x11-\\xa2\\x1a\\xb9\\xa7\\xcb \\x97f\\xe3\\xb3\\x04\\xed\\xcf\\x15S\\x15f\\xcd\\',^\\x0028%\\x88\\xc5S\\xd8\\x95\\xb9\\xa7\\xb8\\x9f\\xe1\\xa2\\xa3\\x1ef\\x06\\xf9\\x10\\x1e\\xfbE\\x15\\x99\\xa1L\\xdc`gx\\xfac\\xadBq\\x8fAP\\x12I\\xc995!\\xc9PGC\\xfc\\xebK\\x10\\x98\\xaaT\\xe4\\x1a\\x9cH\\x10mW\\xc68\\xe0T*p\\xe3p\\xeajR\\xfb\\x1d\\xa3n\\xaa\\xc4f\\x90\\xc5\\xf3\\xbf\\xe9\\xa3~TR\\xe5\\x87j)\\\\,R\\xa9a\\xc1\\xc8`H\\xf6\\xa2\\x8a\\xb2Q!R\\x80\\x958\\xfa\\xd4%\\xcb\\xb3\\x169\\xdd\\xd4\\x9a(\\xa0\\t\\xa3%\\x97\\x199\\x14QEC\\xdc\\xa4\\x7f'"
+                        }
+                    ],
+                    "dc_id": 2,
+                    "has_stickers": false,
+                    "video_sizes": [
+                        {
+                            "_": "types.VideoSize",
+                            "type": "p",
+                            "w": 160,
+                            "h": 160,
+                            "size": 251509
+                        },
+                        {
+                            "_": "types.VideoSize",
+                            "type": "u",
+                            "w": 720,
+                            "h": 720,
+                            "size": 1169910
+                        }
+                    ]
+                },
+                "premium_gifts": [],
+                "birthday": {
+                    "_": "types.Birthday",
+                    "day": 9,
+                    "month": 3
+                }
+            },
+            "chats": [],
+            "users": [
+                {
+                    "_": "types.User",
+                    "id": 793784229,
+                    "is_self": true,
+                    "contact": false,
+                    "mutual_contact": false,
+                    "deleted": false,
+                    "bot": false,
+                    "bot_chat_history": false,
+                    "bot_nochats": false,
+                    "verified": false,
+                    "restricted": false,
+                    "min": false,
+                    "bot_inline_geo": false,
+                    "support": false,
+                    "scam": false,
+                    "apply_min_photo": true,
+                    "fake": false,
+                    "bot_attach_menu": false,
+                    "premium": true,
+                    "attach_menu_enabled": false,
+                    "bot_can_edit": false,
+                    "close_friend": false,
+                    "stories_hidden": false,
+                    "stories_unavailable": true,
+                    "contact_require_premium": false,
+                    "bot_business": false,
+                    "bot_has_main_app": false,
+                    "access_hash": 8333515545182095499,
+                    "first_name": "Alex",
+                    "last_name": "Mak",
+                    "username": "AlexMak248",
+                    "phone": "79166773247",
+                    "photo": {
+                        "_": "types.UserProfilePhoto",
+                        "photo_id": 3409277304091813805,
+                        "dc_id": 2,
+                        "has_video": true,
+                        "personal": false,
+                        "stripped_thumb": "b'\\x01\\x08\\x08\\xa0\\x92\\xe6\\xe3\\xce\\xe8ONh\\xa2\\x8a\\x96\\x8bL'"
+                    },
+                    "status": {
+                        "_": "types.UserStatusOnline",
+                        "expires": 1747325477
+                    },
+                    "restriction_reason": [],
+                    "emoji_status": {
+                        "_": "types.EmojiStatus",
+                        "document_id": 5402223059048346054
+                    },
+                    "usernames": []
+                }
+            ]
+        }
+    }
+}
+2025-05-15 19:06:24,655 - INFO - Started 12 HandlerTasks
+2025-05-15 19:06:24,791 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Dispatcher.add_handler.<locals>.fn() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:244>>
+2025-05-15 19:06:24,794 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-24' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,794 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,794 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,794 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,795 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,795 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,795 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,795 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,796 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,797 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,797 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-05-15 19:06:24,798 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\Alexander\PycharmProjects\DCA_bot\.venv\Lib\site-packages\pyrogram\dispatcher.py:276>>
